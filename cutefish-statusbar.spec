@@ -6,7 +6,7 @@
 
 Name: cutefish-%{component_name}
 Version: 0.7
-Release: 1%{?dist}
+Release: 2%{?dist}
 License: GPLv3
 Summary: Top status bar for Cutefish Desktop
 
